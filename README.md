@@ -1,3 +1,3 @@
-Dragon X client for eagler craft x. 
+Dragon X Client for Eaglercraft X.
 
-THIS IS AN OLD PROJECT. stuff may not work anymore, all i did was upload this file. its not made by me so I can't fix anything.
+THIS IS AN OLD PROJECT. Stuff may not work anymore, all I did was upload this file. It's not made by me so I can't fix anything.
